@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi there,I'm [Jazelle](https://github.com/jazellesclutter) 👋
+
+Hi, I'm Jaz elle, a dev from Ireland.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WadeStack&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WadeStack&count_private=true&hide=HTML&layout=compact)
+
 
 <!--
-**jazellesclutter/jazellesclutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**WadeStack/WadeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{wadestack})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
